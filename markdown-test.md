@@ -6,9 +6,9 @@ _______________
 This text should appear after a horizontal line. 
 
 Let's do a bullet list:
--first item
--second item
--third item
+- first item
+- second item
+- third item
 
 And an ordered list:
 1. This thing
