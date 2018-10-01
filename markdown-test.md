@@ -1,9 +1,10 @@
-#This is a big main title.
-###And this is smaller less important title
+# This is a big main title.
+### And this is smaller less important title
 
 Text which purpouse is *testing* how **markdown** works.
 _______________
-This text should appear after a horizontal line.
+This text should appear after a horizontal line. 
+
 Let's do a bullet list:
 -first item
 -second item
